@@ -1,0 +1,85 @@
+:: StoryTitle
+Full Life - Escape The Lab!
+
+
+:: StoryData
+{
+  "ifid": "775A45F7-2AA5-4C61-A537-5172EC0F3655",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start Point",
+  "zoom": 1
+}
+
+
+:: Ask Barney what he is doing {"position":"900,625","size":"100,100"}
+You ask Barney why he is banging on the door, even he isn't sure, must've been locked out of something, something feels off today.
+
+[[Go to your desk]] 
+
+
+:: Continue to location {"position":"575,750","size":"100,100"}
+You arrive at work! You work in Anomalous Materials Laboratory, which is part of The Black Mesa Reseach Facility. Some scientests tell you to put on your HEV suit, in preparation for an experement.
+
+[[Put on your suit]]
+[[Head down to the lab without your suit and conduct the experment.]]
+
+
+:: Drive your car {"position":"1000,500","size":"100,100"}
+You can't get to work by driving, it's strictly forbidden as it's a security issue!
+
+[[Ride the tram]] 
+
+
+:: Forget to power on the suit and head tot the lab {"position":"425,1125","size":"100,100"}
+GAME UNFINSHED
+Thanks for playing!
+
+[[Start Point]] 
+
+
+:: Go to your desk {"position":"675,625","size":"100,100"}
+On your way to your location, you see nuclear missiles ready for transport to launch sites. "Why are they there?", you think to yourself.
+
+[[Continue to location]]
+
+
+:: Head down to the lab without your suit and conduct the experment. {"position":"775,750","size":"100,100"}
+You conduct the experement without your HEV suit! You were not protected from the radiation, and die in the lab.
+
+[[Start Point]] 
+
+
+:: Power on the suit and head to the lab {"position":"200,1125","size":"100,100"}
+GAME UNFINSHED
+Thanks for playing!
+
+[[Start Point]] 
+
+
+:: Put it on {"position":"325,1000","size":"100,100"}
+Nice! You are now wearing your HEV suit, which will protect you from all hazardous environments.
+
+[[Power on the suit and head to the lab]]
+[[Forget to power on the suit and head tot the lab]]
+
+
+
+:: Put on your suit {"position":"450,875","size":"100,100"}
+You go to your office, and open the 2 giant doors on the other end of the room, behind those doors is a bright orange protective suit.
+
+[[Put it on]]
+
+
+:: Ride the tram {"position":"800,500","size":"100,100"}
+You made it to work, you see a security guard (Barney) banging on a locked door, how strange.
+
+[[Go to your desk]]
+[[Ask Barney what he is doing]]
+
+
+:: Start Point {"position":"900,375","size":"100,100"}
+You are a 27 year old MIT graduate called Dr. Gordon Freeman, and you are late to work. How do you get there?
+
+[[Ride the tram]]
+[[Drive your car]]

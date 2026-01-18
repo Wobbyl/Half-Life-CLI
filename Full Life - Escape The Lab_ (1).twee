@@ -1,0 +1,141 @@
+:: StoryTitle
+Full Life - Escape The Lab!
+
+
+:: StoryData
+{
+  "ifid": "775A45F7-2AA5-4C61-A537-5172EC0F3655",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start Point",
+  "zoom": 1
+}
+
+
+:: Ask Barney what he is doing {"position":"900,625","size":"100,100"}
+You ask Barney why he is banging on the door, even he isn't sure, must've been locked out of something, something feels off today.
+
+[[Go to your desk]]
+
+
+:: Continue to location {"position":"575,750","size":"100,100"}
+You arrive at work! You work in Anomalous Materials Laboratory, which is part of The Black Mesa Reseach Facility. Some scientests tell you to put on your HEV suit, in preparation for an experement.
+
+[[Put on your suit]]
+[[Head down to the lab without your suit and conduct the experment.]]
+
+
+:: Drive your car {"position":"1000,500","size":"100,100"}
+You can't get to work by driving, it's strictly forbidden as it's a security issue!
+
+[[Ride the tram]]
+
+
+:: Go and inspect the specimen {"position":"375,1200","size":"100,100"}
+You closley inpect the specimen, but not for long as the high levels of radiation are getting quite dangerous, even in your suit.
+
+[[Go to the control panel]] 
+
+
+:: Go to the control panel {"position":"200,1225","size":"100,100"}
+You walk up the stairs to the control panel, but what button were you told to press?
+
+[[Left button]]
+[[Right button]]
+
+
+:: Go to your desk {"position":"675,625","size":"100,100"}
+On your way to your location, you see nuclear missiles ready for transport to launch sites. "Why are they there?", you think to yourself.
+
+[[Continue to location]]
+
+
+:: Head down to the lab without your suit and conduct the experment. {"position":"775,750","size":"100,100"}
+You conduct the experement without your HEV suit! You were not protected from the radiation, and die in the lab.
+
+[[Start Point]]
+
+
+:: Help the injured {"position":"525,1275","size":"100,100"}
+Most people are dead, so there wasn't actually that many injuries. Before you can help someone, and alien jumps at you, and the lights go out.
+
+LAST CHECKPOINT:
+[[Go to the control panel]] 
+
+
+:: It could be useful, take it {"position":"375,1600","size":"100,100"}
+GAME UNFINISHED
+
+THANKS FOR PLAYING!
+
+[[Start Point]] 
+
+
+:: Leave it, it isn't yours {"position":"525,1425","size":"100,100"}
+An alien suddenly attacks you but you can't fight it off!
+
+You died.
+
+LAST CHECKPOINT:
+[[Go to the control panel]] 
+
+
+:: Left button {"position":"200,1350","size":"100,100"}
+You hear a whirring sound as the rotors an the Anti-Mass Spectrometer begin to start up. You are tasked with pushing a sample of the specimen into the powerful beam it creates. The sample is under the beam, but a rare 'Resonance Cascade' event occurs, causing something VERY bad to happen.
+
+[[Wake up]]
+
+
+:: Power on the suit and head to the lab {"position":"200,1100","size":"100,100"}
+You arrive at the lab and are told to enter the test chamber by the scientests. You find yourself in a large, orange room infront of the specimen, which you were told very little about. The scientests told you to press the big, red button on the left side of the panel.
+
+[[Go to the control panel]]
+[[Go and inspect the specimen]]
+
+
+:: Put it on {"position":"325,1000","size":"100,100"}
+Nice! You are now wearing your HEV suit, which will protect you from all hazardous environments.
+
+[[Power on the suit and head to the lab]]
+
+
+:: Put on your suit {"position":"450,875","size":"100,100"}
+You go to your office, and open the 2 giant doors on the other end of the room, behind those doors is a bright orange protective suit.
+
+[[Put it on]]
+
+
+:: Ride the tram {"position":"800,500","size":"100,100"}
+You made it to work, you see a security guard (Barney) banging on a locked door, how strange.
+
+[[Go to your desk]]
+[[Ask Barney what he is doing]]
+
+
+:: Right button {"position":"575,1025","size":"100,100"}
+Wrong one! You accidentally released the specimen! Everyone at Black Mesa is dead within 20 minutes.
+
+[[Start Point]]
+
+
+:: Start Point {"position":"900,375","size":"100,100"}
+You are a 27 year old MIT graduate called Dr. Gordon Freeman, and you are late to work. How do you get there?
+
+[[Ride the tram]]
+[[Drive your car]]
+
+
+:: Start making your way up to the surface {"position":"375,1475","size":"100,100"}
+You walk past a crowbar on the floor, do you leave it or decide to take it?
+
+[[It could be useful, take it]]
+[[Leave it, it isn't yours]]
+
+
+:: Wake up {"position":"375,1350","size":"100,100"}
+"I never thought I'd see a resonance cascade, let alone create one." This is the first thing you hear as you wake up, you're still in the la, and have only been out for about 15 minutes. The sample causes aliens to teleport out into the facility. No one saw this coming.
+
+One of the scientests tells you that the phones are out, and you should ideally get to the surface to get help.
+
+[[Start making your way up to the surface]]
+[[Help the injured]]
