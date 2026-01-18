@@ -1,0 +1,31 @@
+:: StoryTitle
+Half Life CLI
+
+
+:: StoryData
+{
+  "ifid": "098E7713-E1A0-4A15-8B4D-F2881929F336",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Intro Sequence",
+  "zoom": 1
+}
+
+
+:: Black Mesa Inbound {"position":"900,125","size":"100,100"}
+Black Mesa Inbound
+
+BLACK MESA RESEARH FACILITY, BLACK MESA, NEW MEXICO
+
+SUBJECT: GORDON FREEMAN, MALE, AGE 27
+EDUCATION: PH.D., MIT, Theoretical Physics
+POSITION: Research Associate
+
+
+:: Intro Sequence {"position":"900,0","size":"100,100"}
+Half Life logo (ASCII art)  shows on the screen, in time with the valve intro sound.
+
+"Half Life CLI created by Wobbyl"
+"Half Life is not mine blah blah blah"
+
+[[Black Mesa Inbound]]
