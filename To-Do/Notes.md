@@ -1,5 +1,5 @@
-## Features
-What do I want in this project?
+# Features
+### What do I want in this project?
 
 1) Respawns / checkpoints.
 2) An intro, possible with sound.
