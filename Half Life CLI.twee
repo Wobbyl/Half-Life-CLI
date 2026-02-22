@@ -12,6 +12,14 @@ Half Life CLI
 }
 
 
+:: Anomalous Materials {"position":"900,250","size":"100,100"}
+Upon your arrival at the anomalous materials lab, your colleague and freind Barney the security guard warns you of the system crash that occured not too long ago.
+
+After the interation with Barney, you are instructed to put on your H.E.V. suit for protection when testing. After entering the locker room, you mkae your way to the kitchen to grab a drink, then the microwave catches your eye.
+
+[[Power it on and destroy a perfectly good casserole]] [[Ignore and go to put on the H.E.V suit.]]
+
+
 :: Black Mesa Inbound {"position":"900,125","size":"100,100"}
 Black Mesa Inbound
 
@@ -23,6 +31,23 @@ POSITION: Research Associate
 
 Late for work, you board the tram at the Black Mesa Research Facility to get to your office, the test labs in sector C. Passing by, you see Barney the security guard banging on a door. As you get closer to your destination, you see a mysterious man in a suit staring at you from a distance. Strange.
 
+[[Anomalous Materials]]
+
+
+:: Enter the test chamber {"position":"1000,625","size":"100,100"}
+Entering the chamber, you briskly walk straight to the control panel and start up the Anti-Mass Spectrometer. After the AMS has reach full operating capactity, the testign sample rises up from the delivery system, ready to be pushed under. You proceed to push the sample underneath the Anti-Mass Spectrometer's bright, radioactive green beam. All you see after is a blifing green flash, then nothing.
+
+[[Unforseeen Consequences]]
+
+
+
+:: Ignore and go to put on the H.E.V suit. {"position":"1000,375","size":"100,100"}
+You enter the vast chamber where the HEV suit is stored, and press a large, red button to remove the protective glass chamber, revealing the suit. You walk up to it, and put it on.
+
+"Welcome to the HEV Mark 4 protective system for use in hazardous environment conditions, high impact reactive armor, activated atmospheric comtanimant sensors, activated vital sign monitoring, automatic medical systems engaged, defensive weapon selection system activated, munition level monitoring activated, communication interface online. Have a <b>very</b> safe day.
+
+[[Make your way to the test chamber]]
+
 
 :: Intro Sequence {"position":"900,0","size":"100,100"}
 Half Life logo (ASCII art)  shows on the screen, in time with the valve intro sound.
@@ -31,3 +56,22 @@ Half Life logo (ASCII art)  shows on the screen, in time with the valve intro so
 "Half Life is not mine blah blah blah"
 
 [[Black Mesa Inbound]]
+
+
+:: Make your way to the test chamber {"position":"1000,500","size":"100,100"}
+You arrive at the test chamber, and the scientists inform you of what is to come. You are told about a unique and large sample, which origins are classified. Scientists tell you they are deviating from normal procedures to accomodate  for this.
+
+[[Enter the test chamber]]
+
+
+
+:: Power it on and destroy a perfectly good casserole {"position":"800,375","size":"100,100"}
+"My god!, what are you doing?" exclaims a very distraught scientist, witnessing his microwave casserole expolde into seemingly millions of tiny chunks, ruining hte sterile walls of the office break room. You walk away like nothing ever happened.
+
+[[Go to the changing room->Ignore and go to put on the H.E.V suit.]]  
+
+
+
+
+:: Unforseeen Consequences {"position":"1000,750","size":"100,100"}
+
